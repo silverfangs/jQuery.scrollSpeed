@@ -1,3 +1,7 @@
+# Notice
+This is a fork project awesomely done by [nathco](https://github.com/nathco). The reason for this fork is to merge the pull request for bug fixes by awesome github community.
+
+
 # jQuery.scrollSpeed
 Lightweight jQuery extension for modifying scrolling speed in modern web browsers. Supports vertical or horizontal scrolling direction, including user-defined easing.
 
@@ -15,10 +19,10 @@ $(function() {
 
     // Default
     jQuery.scrollSpeed(100, 800);
-    
+
     // Custom Easing
     jQuery.scrollSpeed(100, 800, 'easeOutCubic');
-    
+
 });
 ```  
 
